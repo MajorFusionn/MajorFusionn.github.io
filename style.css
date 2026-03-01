@@ -8,3 +8,8 @@ body {
 p {
     font-family: Helvetica;
 }
+
+IMGcat {
+  width: 40%;
+  height: 40%;
+}
